@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+build/
+dist/
+*.spec
+
+# 设计过程文件（不含在仓库里）
+.oil-ui/
+
+# 截图产物
+截图/
+*.png
+!assets/*.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
